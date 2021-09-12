@@ -1,9 +1,4 @@
----
-title: "FinalReport"
-author: "b327zhan"
-date: "8/17/2021"
-output: pdf_document
----
+[kaggle link](https://www.kaggle.com/c/cs480680-spring2021)
 
 (Note that all code written in R has been knit to a pdf. So it's ok not running them if you didn't use R before.)
 
