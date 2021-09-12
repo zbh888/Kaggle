@@ -1,2 +1,0 @@
-I don't remember the exact source, but I think it was from the American Housing Survey (AHS) from some year in the past. I found some data and processed it into a format appropriate for this kind of competition.
-It's not the exact same thing, but roughly the same data source as the Adult dataset which some of you might be familiar with (https://archive.ics.uci.edu/ml/datasets/adult and https://www.kaggle.com/wenruliu/adult-income-dataset). But I think a different year.
